@@ -1,2 +1,2 @@
-# -em-lapiai-biurams
+# žemėlapiai biurams
 Lengviau suprasti
